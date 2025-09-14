@@ -9,7 +9,7 @@ Inspired by [Greentea Peng](https://en.wikipedia.org/wiki/Greentea_Peng), I thou
 
 ## Try on molab
 
-https://molab.marimo.io/notebooks/nb_Xsm9P1reFG4CMASTNzbpSA
+https://molab.marimo.io/notebooks/nb_Xsm9P1reFG4CMASTNzbpSA/app
 
 ## How to use
 
