@@ -1,0 +1,33 @@
+[project]
+name = "greentea-pengerator"
+version = "0.1.0"
+description = "A marimo notebook that generates a name using a random type of tea and a random word meaning 'attractive'"
+authors = [
+    {name = "Draft Contributors", email = "noreply@example.com"}
+]
+readme = "README.md"
+license = {text = "CC0-1.0"}
+requires-python = ">=3.8.1"
+keywords = ["marimo", "random generator", "silly", "names", "fun"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: End Users/Desktop",
+    "License :: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "Natural Language :: English",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12"
+]
+
+dependencies = [
+    "marimo>=0.15.1"
+]
+
+[project.urls]
+Homepage = "https://github.com/starchildluke/greentea-pengerator"
+Repository = "https://github.com/starchildluke/greentea-pengerator"
+Issues = "https://github.com/starchildluke/greentea-pengerator/issues"
+Documentation = "https://github.com/starchildluke/greentea-pengerator#readme"
